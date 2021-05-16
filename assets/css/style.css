@@ -5,7 +5,7 @@ suggestie blauw #11111129
 
 body {
   font-family: 'Poppins', sans-serif;
-  color: #555555;
+  color: #0000007c;
 }
 
 h1,
@@ -61,7 +61,7 @@ a:hover {
 
 .link-a {
   text-decoration: none;
-  color: #ffffff;
+  color: #f8f8f8;
   text-decoration: none;
 }
 
@@ -118,11 +118,11 @@ a:hover {
 }
 
 .color-b {
-  color: #11111129; /*  #11111129 #11111129; */
+  color: #111111cb; /*  #11111129 #11111129; */
 }
 
 .color-d {
-  color: #adadad;
+  color: #080000;
 }
 
 .color-text-a {
@@ -1293,7 +1293,7 @@ a:hover {
 }
 
 .card-header-a .card-title-a {
-  color: #ffffff;
+  color: #050000;
   margin-bottom: 0;
   padding-bottom: .7rem;
 }
@@ -1311,7 +1311,7 @@ a:hover {
 }
 
 .card-header-a .card-title-a a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -1326,7 +1326,7 @@ a:hover {
 }
 
 .price-a {
-  color: #ffffff;
+  color: #080000;
   padding: .6rem .8rem;
   border: 2px solid #11111129;
   border-radius: 50px;
