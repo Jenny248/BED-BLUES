@@ -61,7 +61,7 @@ a:hover {
 
 .link-a {
   text-decoration: none;
-  color: #f8f8f8;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -117,12 +117,19 @@ a:hover {
   color: #000000;
 }
 
+.slide-bg {
+  background-color: #dee2e659;
+  width:100%;
+  padding: 10px;
+}
+
 .color-b {
   color: #111111cb; /*  #11111129 #11111129; */
 }
 
 .color-d {
   color: #080000;
+  
 }
 
 .color-text-a {
@@ -521,8 +528,8 @@ a:hover {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  -webkit-animation: animate-preloader 1s linear infinite;
-  animation: animate-preloader 1s linear infinite;
+  -webkit-animation: animate-preloader 15s linear infinite;
+  animation: animate-preloader 15s linear infinite;
 }
 
 @-webkit-keyframes animate-preloader {
@@ -1000,7 +1007,7 @@ a:hover {
 }
 
 .intro .intro-body .price-a {
-  color: #ffffff;
+  color: #000000;
   padding: 1rem 1.5rem;
   border: 2px solid #11111129;
   border-radius: 50px;
@@ -1009,8 +1016,8 @@ a:hover {
 }
 
 .intro .spacial {
-  -webkit-animation-delay: .2s;
-  animation-delay: .2s;
+  -webkit-animation-delay: .15s;
+  animation-delay: .15s;
   color: #ffffff;
 }
 
@@ -1311,7 +1318,7 @@ a:hover {
 }
 
 .card-header-a .card-title-a a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -1326,7 +1333,7 @@ a:hover {
 }
 
 .price-a {
-  color: #080000;
+  color: #ffffff;
   padding: .6rem .8rem;
   border: 2px solid #11111129;
   border-radius: 50px;
@@ -2064,8 +2071,8 @@ a:hover {
   margin: 0 10px -6px 0;
   border: 3px solid #11111129;
   border-top-color: #eee;
-  -webkit-animation: animate-loading 1s linear infinite;
-  animation: animate-loading 1s linear infinite;
+  -webkit-animation: animate-loading 15s linear infinite;
+  animation: animate-loading 15s linear infinite;
 }
 
 .php-email-form label {
